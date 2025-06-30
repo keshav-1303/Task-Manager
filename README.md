@@ -1,4 +1,4 @@
-## Simple Task Manager using React
+## Simple Task Manager using React (adding and deleting tasks only
 
 # React + Vite
 
